@@ -1,1 +1,1 @@
-# Python
+# tkinter projects in python
