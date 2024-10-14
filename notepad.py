@@ -1,3 +1,4 @@
+#create a notepad using tkinter
 from tkinter import *
 from tkinter import messagebox
 from tkinter.filedialog import askopenfilename,asksaveasfilename
@@ -60,7 +61,7 @@ def paste():
 def about():
     messagebox.showinfo("about","Notepad by Ramprasad-Nayak")
 def contactus():
-    messagebox.showinfo("contact","for more help contact in email ramprasadnayak999@gmail.com")
+    messagebox.showinfo("contact","for more help contact in email")
 
 
 root=Tk()
