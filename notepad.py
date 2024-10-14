@@ -66,7 +66,7 @@ def contactus():
 
 root=Tk()
 root.title("untitled-page")
-root.wm_iconbitmap("icon1.ico")
+root.wm_iconbitmap("icon1.ico")#provide icon1.ico
 root.geometry("400x400")
 
 
