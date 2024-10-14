@@ -184,7 +184,7 @@ root.title("calculator")
 root.geometry("350x345")
 root.minsize(350,345)
 root.maxsize(350,345)
-root.wm_iconbitmap("icon2.ico")
+root.wm_iconbitmap("icon2.ico")#provide icon2.ico
 f1=Frame(root,bg="black",bd=30,relief="raised")
 f1.pack(fill=BOTH,expand=True)
 f2=Frame(f1,bg="grey",relief="sunken",bd=10)
